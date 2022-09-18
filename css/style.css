@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,700;1,400&display=swap');
+
+@font-face {
+	font-family: "Inter ";
+	src: url("../fonts/Inter-Black.woff2") format("woff2"), url("../fonts/Inter-Black.woff") format("woff") ;
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Inter";
+	src: url("../fonts/Inter-Regular.woff2") format("woff2"), url("../fonts/Inter-Regular.woff") format("woff") ;
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h1 {
+	font-family: "Inter";
+	font-weight: 900;
+	font-size: 30px;
+	text-shadow: 1px 1px  5px rgb(33, 100, 82);
+	margin-top: 20px;
+	margin-bottom: 30px;
+
+}
+ 
+header{
+	text-align: center;
+}
+ .box p {
+	font-family: "Mulish";
+	font-style: italic;
+
+ }
+ h2 {
+	color: brown;
+	text-decoration: underline;
+	font-size: 22px;
+ }
+ .history{
+	padding: 20px 10px ;
+ }
+
+ .history p {
+	text-indent: 10px;
+	letter-spacing: 2px;
+	margin: 10px;
+	
+ }
+
+ .legend{
+
+color: blue;
+ }
+
+ .list{
+	padding: 25px 15px;
+	font-family: "Mulish";
+	font-weight: 700;
+ }
+
+ ol {
+	color: chocolate;
+ }
+
+ h3{
+	color: chartreuse;
+	font-size: 25px;
+	text-transform: uppercase;
+ }
+
+ .text p {
+	margin-top: 15px;
+	color: rgb(15, 137, 15);
+	word-spacing: 5px;
+	text-transform: capitalize;
+	font-family: "Inter";
+	font-weight: 400;
+
+ }
+ footer {
+	margin-top: 35px;
+	text-align: center;
+ }
+
+ .finish {
+	font-size: 25px;
+	color: rgb(192, 51, 122);
+	margin-bottom: 15px;
+	white-space: nowrap;
+	
+ }
+
